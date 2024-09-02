@@ -18,17 +18,18 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Saidakhmad77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&border_radius=10" alt="Saidakhmad77's GitHub Stats" height="180px" width="400px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=dark" alt="Saidakhmad77's Profile Summary" width="400px" />
     
     <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&hide_border=true&theme=github_dark&border_radius=10" alt="Top Languages" height="180px" width="400px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Saidakhmad77&theme=dark" alt="Top Languages" width="400px" />
     
     <!-- GitHub Streak Card -->
-    <img src="https://streak-stats.demolab.com?user=Saidakhmad77&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="180px" width="400px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="400px" />
   </a>
 </div>
 
 ---
+
 
 
 
