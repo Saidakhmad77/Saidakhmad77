@@ -8,7 +8,7 @@
 
 - 🌍 Based in **Seoul, South Korea**
 - 🕒 **Time Zone**: UTC+09:00
-- 🎓 **Studying at Gachon University**
+- 🎓 **Studied at Gachon University**
 - ✉️ Contact me at: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
 
 ---
@@ -25,9 +25,9 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saidakhmad77&bg_color=0D1117&color=38C2FF&line=1DB954&point=38C2FF&hide_border=true)
+[![Saidakhmad77's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=github_dark)](https://github.com/Saidakhmad77)
 
 ---
 
