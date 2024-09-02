@@ -30,12 +30,18 @@
 [![Saidakhmad77's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=github_dark)](https://github.com/Saidakhmad77)
 
 ---
+## 💼 Skills & Tools
 
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Saidakhmad77&theme=onedark&no-frame=true&column=7&row=1)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
+
 
 ## 🔍 Pinned Repositories
 
@@ -56,15 +62,9 @@
 
 ---
 
-## 💼 Skills & Tools
+## 🏆 Achievements
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Trophy](https://github-profile-trophy.vercel.app/?username=Saidakhmad77&theme=onedark&no-frame=true&column=7&row=1)
 
 ---
 
