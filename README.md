@@ -12,18 +12,14 @@
 - ✉️ Contact me at: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/Saidakhmad77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&count_private=true&hide_border=true&theme=dark&border_radius=8" alt="Saidakhmad77's GitHub Stats" width="400px" />
-
-  <!-- Top Languages Card -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&hide_border=true&theme=dark&border_radius=8" alt="Top Languages" width="400px" />
-
-   <!-- GitHub Streak Card -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak Stats" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="Sam's GitHub stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=radical&hide_border=true&background=0D1117&stroke=38C2FF" alt="GitHub Streak Stats" height="180px" />
   </a>
 </div>
 
