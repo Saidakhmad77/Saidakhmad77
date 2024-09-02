@@ -1,16 +1,40 @@
-## Hi there 👋
+# Sam (Saidakhmad77) - Developer from Seoul 👨‍💻
 
-<!--
-**Saidakhmad77/Saidakhmad77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Saidakhmad77&color=brightgreen)
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&theme=dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark)
+
+## 🔍 Pinned Repositories
+
+- [**Blackjack_python**](https://github.com/Saidakhmad77/Blackjack_python) - A Blackjack game written in Python. Play against the dealer and try your luck! Also includes a play-again function.
+- [**Number_Guessing_game_python**](https://github.com/Saidakhmad77/Number_Guessing_game_python) - Simple guessing game in Python, which includes the number of attempts.
+- [**Weather_Forecast_Python**](https://github.com/Saidakhmad77/Weather_Forecast_Python) - Python code for weather forecasting using an API.
+- [**Currency_change_converter**](https://github.com/Saidakhmad77/Currency_change_converter) - A tool to calculate how much money needs to be given back after a purchase.
+- [**ToDo_list**](https://github.com/Saidakhmad77/ToDo_list) - A to-do list application created with JavaScript.
+
+## 🌍 Location & Contact
+
+- 🌏 Seoul, South Korea
+- 🕒 Time Zone: UTC+09:00
+- 📧 Email: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
+
+## 🏆 Achievements
+
+- 🔄 87 contributions in the last year
+- 🔥 Consistent streaks and active contributions in August 2024
+
+## 💼 Skills & Tools
+
+- Python, JavaScript, HTML, CSS
+- Git, GitHub, VS Code
+
+## 🎓 Education
+
+- 📍 Gachon University, South Korea
+
