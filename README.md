@@ -16,19 +16,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card with Animation -->
   <a href="https://github.com/Saidakhmad77">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&count_private=true&hide_border=true&theme=github_dark&border_radius=10" alt="Saidakhmad77's GitHub Stats" width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&card_width=400" alt="Saidakhmad77's GitHub Stats" />
     
-    <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&hide_border=true&theme=github_dark&border_radius=10" alt="Top Languages" width="400px" />
+    <!-- Top Languages Card with Animation -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=10&card_width=400" alt="Top Languages" />
     
-    <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" width="400px" />
+    <!-- GitHub Streak Card with Animation -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
   </a>
 </div>
 
 ---
+
 
 ## 📊 Contribution Graph
 
