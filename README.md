@@ -20,10 +20,10 @@
   <a href="https://github.com/Saidakhmad77">
     <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=10&card_width=400" alt="Saidakhmad77's GitHub Stats" />
     
-    <!-- Top Languages Card with Animation -->
+  <!-- Top Languages Card with Animation -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=10&card_width=400" alt="Top Languages" />
     
-    <!-- GitHub Streak Card with Animation -->
+  <!-- GitHub Streak Card with Animation -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
   </a>
 </div>
