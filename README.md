@@ -1,40 +1,79 @@
-# Sam (Saidakhmad77) - Developer from Seoul 👨‍💻
+# 👋 Hello, I'm Sam (Saidakhmad77)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saidakhmad77&color=brightgreen)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+AI+%26+ML;Lifelong+Learner)
 
-## 📊 My GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=dark)
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&theme=dark)
+- 🌍 Based in **Seoul, South Korea**
+- 🕒 **Time Zone**: UTC+09:00
+- 🎓 **Studying at Gachon University**
+- ✉️ Contact me at: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark)
+---
 
-## 🔍 Pinned Repositories
+## 📊 GitHub Stats
 
-- [**Blackjack_python**](https://github.com/Saidakhmad77/Blackjack_python) - A Blackjack game written in Python. Play against the dealer and try your luck! Also includes a play-again function.
-- [**Number_Guessing_game_python**](https://github.com/Saidakhmad77/Number_Guessing_game_python) - Simple guessing game in Python, which includes the number of attempts.
-- [**Weather_Forecast_Python**](https://github.com/Saidakhmad77/Weather_Forecast_Python) - Python code for weather forecasting using an API.
-- [**Currency_change_converter**](https://github.com/Saidakhmad77/Currency_change_converter) - A tool to calculate how much money needs to be given back after a purchase.
-- [**ToDo_list**](https://github.com/Saidakhmad77/ToDo_list) - A to-do list application created with JavaScript.
+<div align="center">
+  <a href="https://github.com/Saidakhmad77">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="Sam's GitHub stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=radical&hide_border=true&background=0D1117&stroke=38C2FF" alt="GitHub Streak Stats" height="180px" />
+  </a>
+</div>
 
-## 🌍 Location & Contact
+---
 
-- 🌏 Seoul, South Korea
-- 🕒 Time Zone: UTC+09:00
-- 📧 Email: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
+## 🔥 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Saidakhmad77&bg_color=0D1117&color=38C2FF&line=1DB954&point=38C2FF&hide_border=true)
+
+---
 
 ## 🏆 Achievements
 
-- 🔄 87 contributions in the last year
-- 🔥 Consistent streaks and active contributions in August 2024
+![Trophy](https://github-profile-trophy.vercel.app/?username=Saidakhmad77&theme=onedark&no-frame=true&column=7&row=1)
+
+---
+
+## 🔍 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Saidakhmad77/Blackjack_python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Blackjack_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
+  </a>
+  <a href="https://github.com/Saidakhmad77/Number_Guessing_game_python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Number_Guessing_game_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
+  </a>
+  <a href="https://github.com/Saidakhmad77/Weather_Forecast_Python">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Weather_Forecast_Python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
+  </a>
+  <a href="https://github.com/Saidakhmad77/Currency_change_converter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Currency_change_converter&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
+  </a>
+</div>
+
+---
 
 ## 💼 Skills & Tools
 
-- Python, JavaScript, HTML, CSS
-- Git, GitHub, VS Code
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🎓 Education
+---
 
-- 📍 Gachon University, South Korea
+## ✨ Contribution Stats
+
+<!--START_SECTION:waka-->
+```text
+Python     15 hrs 30 mins  ██████████████░░░░░░░░░░░   55.37 %
+JavaScript 10 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   38.35 %
+HTML       1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   4.78 %
+CSS        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   1.50 %
 
