@@ -13,13 +13,6 @@
 
 ---
 
-### Contributions Overview
-
-- **64 Contributions in 2024**
-- **21 Public Repos**
-- **Joined GitHub 3 years ago**
-- **Gachon University**
-
 ![Contributions in the last year](https://github-readme-activity-graph.vercel.app/graph?username=Saidakhmad77&theme=react-dark&hide_border=true)
 
 ---
