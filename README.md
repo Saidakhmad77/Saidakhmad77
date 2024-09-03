@@ -15,19 +15,7 @@
 
 ## 📊 Contribution Graph
 
-[![Saidakhmad77's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saidakhmad77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📈 GitHub Stats
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saidakhmad77&theme=onestar&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Your GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&theme=radical)
+[![Saidakhmad77's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saidakhmad77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -59,6 +47,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Currency_change_converter&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
   </a>
 </div>
----
 
 
