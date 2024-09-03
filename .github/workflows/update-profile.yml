@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update README
+        run: |
+          echo "# GitHub Stats" > README.md
+          echo "![](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=dark)" >> README.md
+          echo "![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&theme=dark)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "lionuz669@gmail.com"
+          git config --local user.name "Sam(Saidahmad)"
+          git add README.md
+          git commit -m "Automated update of README"
+          git push
