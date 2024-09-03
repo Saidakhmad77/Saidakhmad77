@@ -17,16 +17,6 @@
 
 ---
 
-
-## ⏱️ Time Spent on Each Language
-
-- **Python:** 15 hrs 30 mins (55.37%)
-- **JavaScript:** 10 hrs 45 mins (38.35%)
-- **HTML:** 1 hr 20 mins (4.78%)
-- **CSS:** 30 mins (1.50%)
-
----
-
 ## 💼 Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
