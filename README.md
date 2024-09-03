@@ -11,38 +11,41 @@
 - 🎓 **Studied at Gachon University**
 - ✉️ Contact me at: [lionuz669@gmail.com](mailto:lionuz669@gmail.com)
 
----
-
-## 📊 My GitHub Stats
-
-[![Saidakhmad77's GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![Saidakhmad77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-[![Saidakhmad77's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saidakhmad77&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🔍 Pinned Repositories
+# Sam (Saidahmad)
 
 <div align="center">
-  <a href="https://github.com/Saidakhmad77/Blackjack_python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Blackjack_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Number_Guessing_game_python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Number_Guessing_game_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Weather_Forecast_Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Weather_Forecast_Python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Currency_change_converter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Currency_change_converter&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
+
+### Contributions Overview
+
+- **64 Contributions in 2024**
+- **21 Public Repos**
+- **Joined GitHub 3 years ago**
+- **Gachon University**
+
+![Contributions in the last year](https://github-readme-activity-graph.vercel.app/graph?username=Saidakhmad77&theme=react-dark&hide_border=true)
+
 </div>
 
+---
 
+## 📊 Stats Overview
+
+<div align="center" style="display: flex; justify-content: space-around;">
+
+  <div>
+    <h3>Stats</h3>
+    <ul>
+      <li>⭐ <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/Saidakhmad77?style=social" alt="stars"></li>
+      <li>💻 <b>2024 Commits:</b> <img src="https://img.shields.io/github/commit-activity/y/Saidakhmad77?style=flat-square" alt="commits"></li>
+      <li>🔀 <b>Total PRs:</b> <img src="https://img.shields.io/github/issues-pr/Saidakhmad77?style=flat-square" alt="PRs"></li>
+      <li>🐞 <b>Total Issues:</b> <img src="https://img.shields.io/github/issues/Saidakhmad77?style=flat-square" alt="Issues"></li>
+      <li>🌟 <b>Contributed to:</b> <img src="https://img.shields.io/github/contributors/Saidakhmad77?style=flat-square" alt="Contributions"></li>
+    </ul>
+  </div>
+  
+  <div>
+    <h3>Commits (UTC +8.00)</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark" alt="Commits graph" />
+  </div>
+
+</div>
