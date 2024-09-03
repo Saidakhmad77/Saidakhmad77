@@ -64,11 +64,6 @@
 
 ---
 
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Saidakhmad77&theme=onedark&no-frame=true&column=7&row=1)
-
----
 
 ## ✨ Contribution Stats
 
