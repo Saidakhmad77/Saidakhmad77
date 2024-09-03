@@ -13,12 +13,20 @@
 
 ---
 
-
 ## 📊 Contribution Graph
 
 [![Saidakhmad77's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=github_dark)](https://github.com/Saidakhmad77)
 
 ---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saidakhmad77&show_icons=true&theme=dark)
+![Your GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Saidakhmad77&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidakhmad77&layout=compact&theme=dark)
+
+---
+
 ## 💼 Skills & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -31,12 +39,11 @@
 
 ---
 
-
 ## 🔍 Pinned Repositories
 
 <div align="center">
   <a href="https://github.com/Saidakhmad77/Blackjack_python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Blackjack_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Blackjack_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
   </a>
   <a href="https://github.com/Saidakhmad77/Number_Guessing_game_python">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Number_Guessing_game_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
@@ -51,13 +58,4 @@
 
 ---
 
-
-## ✨ Contribution Stats
-
-<!--START_SECTION:waka-->
-```text
-Python     15 hrs 30 mins  ██████████████░░░░░░░░░░░   55.37 %
-JavaScript 10 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   38.35 %
-HTML       1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   4.78 %
-CSS        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   1.50 %
 
