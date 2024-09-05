@@ -16,7 +16,6 @@
 ![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=zenburn)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saidakhmad77&theme=zenburn)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saidakhmad77&theme=zenburn)
 
 ---
