@@ -13,7 +13,9 @@
 
 ---
 
-![Contributions in the last year](https://github-readme-activity-graph.vercel.app/graph?username=Saidakhmad77&theme=react-dark&hide_border=true)
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=zenburn)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saidakhmad77&theme=zenburn)
 
 ---
 
