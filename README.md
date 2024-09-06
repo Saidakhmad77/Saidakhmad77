@@ -13,10 +13,10 @@
 
 ---
 
-![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=transparent)
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidakhmad77&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saidakhmad77&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saidakhmad77&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saidakhmad77&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saidakhmad77&theme=react)
 
 ---
 
