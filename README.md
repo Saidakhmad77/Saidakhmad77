@@ -35,22 +35,3 @@
 
 
 ---
-
-## 🔍 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Saidakhmad77/Blackjack_python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Blackjack_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Number_Guessing_game_python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Number_Guessing_game_python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Weather_Forecast_Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Weather_Forecast_Python&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-  <a href="https://github.com/Saidakhmad77/Currency_change_converter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saidakhmad77&repo=Currency_change_converter&theme=radical&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF" />
-  </a>
-</div>
-
----
