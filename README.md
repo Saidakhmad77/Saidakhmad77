@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sam (Saidahmad)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Web+Developer;Passionate+About+AI;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Software+Developer;Passionate+About+AI;Lifelong+Learner)
 
 ---
 
